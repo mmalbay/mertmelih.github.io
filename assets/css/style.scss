@@ -1,0 +1,10 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* Logoyu (profil fotoğrafını) küçültmek için */
+header img {
+  width: 150px; /* İstediğin boyuta göre ayarla */
+  height: auto;
+  border-radius: 50%; /* Fotoğrafı yuvarlak yapmak istersen */
+}
