@@ -1,3 +1,5 @@
+[Ana Sayfa](index.html) | [Projelerim](projects.html)
+---
 ## HAKKIMDA
 Donanım mimarisi, dijitalizasyon, gömülü sistemler, elektronik devre tasarımı ve
 gerçek zamanlı veri füzyonu gibi alanlarda iki yıldan fazla pratik deneyime sahip
