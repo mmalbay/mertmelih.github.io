@@ -1,0 +1,9 @@
+---
+---
+@import "{{ site.theme }}";
+
+.site-header img {
+  max-width: 150px; /* Fotoğraf genişliğini buradan ayarla */
+  height: auto;
+  border-radius: 15px; /* Köşeleri hafif yuvarlatır */
+}
