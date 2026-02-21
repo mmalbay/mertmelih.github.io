@@ -16,4 +16,3 @@ safasfasfas
 ### Dinamik Yük Koşullarında Senkron Jeneratör Karakteristiklerinin MATLAB GUI ile
 İncelenmesi
 
-
