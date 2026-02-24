@@ -10,8 +10,7 @@ prototip üretimine kadar bağımsız yürütebilirim.
 Muğla Sıtkı Koçman Üniversitesi | 2022-Devam Ediyor
 Elektrik Elektronik Mühendisliği (İngilizce)- 4.Sınıf
 ## DENEYİM
-Kalyon Enerji Yatırımları A.Ş. | Stajyer | 07/07/2025 - 04/08/2025
-
+Kalyon Enerji Yatırımları A.Ş. | Stajyer | 07/07/2025 - 04/08/2025  
 AutoCAD kullanarak güneş enerjisi santrallerinde saha yerleşim planlaması
 gerçekleştirdim; PVsyst ve MATLAB ile gölgelenme ve üretim verimliliği
 simülasyonları modelledim. Rüzgar türbinlerinden elde edilen gerçek zamanlı
