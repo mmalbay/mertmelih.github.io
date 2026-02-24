@@ -13,9 +13,9 @@ Modül, derin öğrenme mimarileri (YOLO) ve bilgisayarlı görü (OpenCV) tekni
 <span class="proje-vurgu">YOLO ve OpenCV Entegrasyonu:</span> Gerçek zamanlı nesne tespiti için YOLO mimarisi kullanılmış; kamera verileri OpenCV kütüphanesi ile ön işleme (gürültü giderme, kontrast iyileştirme) adımlarından geçirilerek analiz verimliliği en üst seviyeye taşınmıştır.  
 
 <span class="proje-vurgu">Otonom Kusur Tespiti:</span> Temassız analiz yöntemiyle; eksik parça, hatalı dizilim ve lehim anomalileri otonom olarak saptanarak teşhis süreci dijitalleştirilmiştir.  
-
-<img src="assets/002png.png" width="600">
-
+-Sistem Performansı: Nesne Algılama ve Hata Saptama Verileri
+<img src="assets/002png.png" width="400">
+assets/002.png
 <img src="assets/001.png" width="600">  
 -Projenin kusur tespit ve bileşen tespit çıktıları
 
