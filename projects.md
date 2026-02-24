@@ -16,7 +16,7 @@ Modül, derin öğrenme mimarileri (YOLO) ve bilgisayarlı görü (OpenCV) tekni
 
 -Sistem Performansı: Nesne Algılama ve Hata Saptama Verileri  
 
-<img src="assets/002png.png" width="600" height="200">
+<img src="assets/002png.png" width="600" height="300">
 
 <img src="assets/001.png" width="600">  
 
