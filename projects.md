@@ -1,7 +1,3 @@
-layout: default
-title: Projelerim
----
-
 [Ana Sayfa](index.html) | **[Projelerim](projects.html)**
 ---
 
