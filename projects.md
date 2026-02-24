@@ -14,10 +14,10 @@ Modül, derin öğrenme mimarileri (YOLO) ve bilgisayarlı görü (OpenCV) tekni
 
 <span class="proje-vurgu">Otonom Kusur Tespiti:</span> Temassız analiz yöntemiyle; eksik parça, hatalı dizilim ve lehim anomalileri otonom olarak saptanarak teşhis süreci dijitalleştirilmiştir.  
 -Sistem Performansı: Nesne Algılama ve Hata Saptama Verileri
-<img src="assets/002png.png" width="400">
-assets/002.png
+<img src="assets/002png.png" width="600">
+
 <img src="assets/001.png" width="600">  
--Projenin kusur tespit ve bileşen tespit çıktıları
+
 
 
 
