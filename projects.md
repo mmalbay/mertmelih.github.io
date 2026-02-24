@@ -1,4 +1,3 @@
-<img width="688" height="644" alt="image" src="https://github.com/user-attachments/assets/32b016c3-fc1e-4adb-8269-e950fd029fad" />---
 layout: default
 title: Projelerim
 ---
