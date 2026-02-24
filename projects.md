@@ -23,7 +23,7 @@ Modül, derin öğrenme mimarileri (YOLO) ve bilgisayarlı görü (OpenCV) tekni
 ## CNC-Probe: 3 Eksenli Robot ile Termal ve Elektriksel PCB Analiz Cihazı  
 Cihaz, 3 eksenli hareket edebilen robotik bir platform yardımıyla PCB üzerinde detaylı fiziksel kontroller gerçekleştirmeyi amaçlar. İlk aşamada yapay zekânın belirlediği şüpheli noktaları referans alarak kartı termal olarak haritalandırır; bu sayede çıplak gözle görülmeyen kısa devre ve aşırı ısınma bölgelerini anında saptar. Aynı zamanda otonom prob ucuyla otomatik elektriksel ölçümler yaparak, arızanın yerini milimetrik hassasiyetle belirler ve teşhis sürecini kesin bir raporla tamamlar.
 
-<img src="assets/Otomatik Optik İnceleme.png" width="600" height="600">  
+<img src="assets/Otomatik Optik İnceleme.png" width="600" height="400">  
 
 -Projenin iş akış diyagramı
 
