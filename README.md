@@ -3,7 +3,7 @@
 ## HAKKIMDA
 Donanım mimarisi, dijitalizasyon, gömülü sistemler, elektronik devre tasarımı ve
 gerçek zamanlı veri füzyonu gibi alanlarda iki yıldan fazla pratik deneyime sahip
-Elektik&Elektronik Mühendisliği son sınıf öğrencisi. Yapay zeka tabanlı analiz
+Elektrik&Elektronik Mühendisliği son sınıf öğrencisi. Yapay zeka tabanlı analiz
 yöntemleriyle birleşik otonom sistemler geliştirdim. Bir projeyi tasarım aşamasından
 prototip üretimine kadar bağımsız yürütebilirim.
 ## EĞİTİM
