@@ -21,17 +21,24 @@ Modül, derin öğrenme mimarileri (YOLO) ve bilgisayarlı görü (OpenCV) tekni
 <img src="assets/001.png" width="600">  
 
 ## CNC-Probe: 3 Eksenli Robot ile Termal ve Elektriksel PCB Analiz Cihazı  
-Cihaz, 3 eksenli hareket edebilen robotik bir platform yardımıyla PCB üzerinde detaylı fiziksel kontroller gerçekleştirmeyi amaçlar. İlk aşamada yapay zekânın belirlediği şüpheli noktaları referans alarak kartı termal olarak haritalandırır; bu sayede çıplak gözle görülmeyen kısa devre ve aşırı ısınma bölgelerini anında saptar. Aynı zamanda otonom prob ucuyla otomatik elektriksel ölçümler yaparak, arızanın yerini milimetrik hassasiyetle belirler ve teşhis sürecini kesin bir raporla tamamlar.
+Cihaz, 3 eksenli hareket edebilen robotik bir platform yardımıyla PCB üzerinde detaylı fiziksel kontroller gerçekleştirmeyi amaçlar. İlk aşamada yapay zekânın belirlediği şüpheli noktaları referans alarak kartı termal olarak haritalandırır; bu sayede çıplak gözle görülmeyen kısa devre ve aşırı ısınma bölgelerini anında saptar. Aynı zamanda otonom prob ucuyla otomatik elektriksel ölçümler yaparak, arızanın yerini milimetrik hassasiyetle belirler ve teşhis sürecini kesin bir raporla tamamlar.  
+
+-Projenin İş Akış Diyagramı  
 
 <img src="assets/Otomatik Optik İnceleme.png" width="700" height="400">  
 
--Projenin iş akış diyagramı
+-Sistem Çalışma Prensibi  
 
-<span class="proje-vurgu">3 Eksenli Robotik Mekanizma:</span> X, Y ve Z eksenlerinde hassas hareket kabiliyetine sahip CNC tabanlı bir sistem tasarlanmış; ölçüm probunun ve termal sensörün kart üzerindeki her noktaya otonom bir şekilde ulaşması sağlanmıştır.
+<span class="proje-vurgu">1.Eşzamanlı Görsel ve Termal Tarama:</span> Sabit konumlandırılmış yüksek çözünürlüklü optik kamera ve MLX90640 termal kamera, eşzamanlı olarak çalışarak tek seferde tüm PCB'nin genel görüntüsünü ve global ısı haritasını çıkarır.  
 
-<span class="proje-vurgu">Termal Haritalama ve Analiz:</span> Entegre edilen kızılötesi sensör ile kartın yüzeyindeki ısı dağılımı dijital bir haritaya dönüştürülür. Bu haritalandırma sayesinde, normalden fazla ısınan bileşenler ve gizli kısa devre noktaları anlık olarak tespit edilir.
+<span class="proje-vurgu">2.Yapay Zekâ ile Optik Analiz:</span> Eğitilmiş YOLO modeli, optik görüntü üzerinden kartı tarayarak eksik, hatalı veya şüpheli bileşenlerin piksel koordinatlarını saptar.
+Termal Doğrulama ve Veri Çakıştırma: Optik görüntüde saptanan şüpheli pikseller, genel termal harita üzerindeki ilgili bölgelerle eşleştirilir. O bölgedeki sıcaklık verisi analiz edilerek olası kısa devre veya aşırı ısınma durumu yazılımsal olarak doğrulanır.  
 
-<span class="proje-vurgu">Otonom Prob ile Doğrulama:</span> Yapay zeka modülü tarafından saptanan hata noktaları, görüntü düzlemindeki (piksel) konumlarından mekanik düzlemdeki (milimetrik) koordinatlara otomatik olarak dönüştürülür. Bu akıllı haritalandırma sayesinde termal sensör, kartın rastgele noktalarını taramak yerine doğrudan arıza şüphesi olan bileşenlerin üzerine konumlanır. Böylece, yapay zekanın "gördüğü" görsel hatalar, termal sensörün sunduğu "ısı verisi" ile saniyeler içinde fiziksel olarak doğrulanır.  
+<span class="proje-vurgu">3.Mekanik Koordinat Dönüşümü:</span> Optik ya da termal olarak onaylanan hatalı bölgenin piksel koordinatları, kalibrasyon matrisi (Homografi) kullanılarak CNC mekanizmasının gideceği milimetrik X-Y koordinatlarına çevrilir.  
+
+<span class="proje-vurgu">4.Otonom Elektriksel Test:</span> 3 eksenli kol, ucundaki ölçüm probunu doğrudan hesaplanan bu milimetrik koordinata yönlendirir ve bileşen üzerinde fiziksel voltaj/süreklilik ölçümlerini gerçekleştirir.  
+
+<span class="proje-vurgu">5.Veri Füzyonu ve Raporlama:</span> Optik tespit, termal ısı verisi ve elektriksel ölçüm sonuçları merkezi yazılım (PyQt5 GUI) üzerinde birleştirilerek kullanıcıya nihai arıza teşhis raporu sunulur.  
 
 -Ölçüm Platform Karkası  
 <img src="assets/CNC KARKASI - 2D(2)_page-0001.jpg" width="600"> 
