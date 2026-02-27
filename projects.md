@@ -31,7 +31,11 @@ Cihaz, 3 eksenli hareket edebilen robotik bir platform yardımıyla PCB üzerind
 
 <span class="proje-vurgu">Termal Haritalama ve Analiz:</span> Entegre edilen kızılötesi sensör ile kartın yüzeyindeki ısı dağılımı dijital bir haritaya dönüştürülür. Bu haritalandırma sayesinde, normalden fazla ısınan bileşenler ve gizli kısa devre noktaları anlık olarak tespit edilir.
 
-<span class="proje-vurgu">Otonom Prob ile Doğrulama:</span> Yapay zeka modülü tarafından saptanan hata noktaları, görüntü düzlemindeki (piksel) konumlarından mekanik düzlemdeki (milimetrik) koordinatlara otomatik olarak dönüştürülür. Bu akıllı haritalandırma sayesinde termal sensör, kartın rastgele noktalarını taramak yerine doğrudan arıza şüphesi olan bileşenlerin üzerine konumlanır. Böylece, yapay zekanın "gördüğü" görsel hatalar, termal sensörün sunduğu "ısı verisi" ile saniyeler içinde fiziksel olarak doğrulanır.
+<span class="proje-vurgu">Otonom Prob ile Doğrulama:</span> Yapay zeka modülü tarafından saptanan hata noktaları, görüntü düzlemindeki (piksel) konumlarından mekanik düzlemdeki (milimetrik) koordinatlara otomatik olarak dönüştürülür. Bu akıllı haritalandırma sayesinde termal sensör, kartın rastgele noktalarını taramak yerine doğrudan arıza şüphesi olan bileşenlerin üzerine konumlanır. Böylece, yapay zekanın "gördüğü" görsel hatalar, termal sensörün sunduğu "ısı verisi" ile saniyeler içinde fiziksel olarak doğrulanır.  
+
+-Ölçüm Platform Karkası  
+<img src="assets/CNC KARKASI - 2D(2)_page-0001.jpg" width="600"> 
+
 
 ## Düşük Genlikli Sinyaller için Yüksek SNR’li Amfi  
 Bu proje, mikrofonlar veya düşük çıkışlı enstrüman manyetiklerinden gelen zayıf analog ses sinyallerini, devrenin kendi elektriksel ve termal gürültüsüne maruz bırakmadan optimum seviyeye yükselten yüksek performanslı bir ön yükseltici (pre-amplifier) tasarımıdır. Sistemin temel amacı, düşük gürültülü bileşenler ve hassas empedans eşleme teknikleriyle sesin doğal dinamiklerini korumak, maksimum sinyal-gürültü oranı (SNR) elde etmek ve böylece yüksek sadakatli (Hi-Fi) kayıt ile dinleme sistemleri için berrak, kayıpsız ve distorsiyonsuz bir ses altyapısı sunmaktır.
