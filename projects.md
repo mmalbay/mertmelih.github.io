@@ -62,7 +62,7 @@ Bu çalışma, 'Illumination Techniques and Planning' dersi müfredatı dahilind
 ### Gerçekleştirilen Teknik Çalışmalar
 Apartman dairesi mimari planı ve genel bina hiyerarşisi (katlar ve daireler dahil) AutoCAD ortamında teknik standartlara uygun olarak projelendirilmiştir. Tesisatın güvenli ve sürdürülebilir çalışması adına her bir hat (linye) için ayrı ayrı yüzde gerilim düşümü (%e) hesaplamaları gerçekleştirilmiştir. Sistemin enerji ihtiyacını, akım kapasitesini ve dengesini analiz etmek amacıyla uluslararası standartlarda bir Yük Tablosu oluşturulmuştur. Her oda için gerekli aydınlık düzeyini sağlamak amacıyla Zijl Metodu kullanılarak detaylı ışık kaynağı hesaplamaları yapılmış ve armatür yerleşimleri bu verilere göre tamamlanmıştır. 
 -Güç Dağılımı ve Devre Karakteristikleri: Yük Tablosu Analizi
-<img src="assets/IlluminationFinalProject.jpg" width="600">  
+<img src="assets/loadingTabel.png" width="600">  
 
 Toplam kurulu güç 80.504 W olarak hesaplanmış; ancak sistemin gerçek zamanlı çalışma karakteristiğini yansıtmak amacıyla eşzamanlılık katsayısı (simultaneity factor) uygulanarak talep gücü 36.226,8 W seviyesine normalize edilmiştir.  
 Konut içindeki yüksek güç tüketen ekipmanlar için özel linyeler tasarlanmıştır. Örneğin; 1. kat dairelerde yer alan çamaşır makinesi, bulaşık makinesi ve fırın gibi yüklerin yanı sıra bodrum katta yer alan araç şarj istasyonu hatları ayrı ayrı projelendirilmiştir.  
