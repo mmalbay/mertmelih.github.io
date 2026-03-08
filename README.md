@@ -19,7 +19,7 @@ değerlendirmesi için matematiksel modeller geliştirdim.
 ## YABANCI DİL
 İNGİLİZCE - C1
 ## BECERİLER
-MATLAB | Altium Designer | Python | Verilog | AutoCAD | PVsyst | Gömülü Sistemler | RF
+MATLAB | Altium Designer | Python | VHDL | AutoCAD | PVsyst | Gömülü Sistemler | RF
 Sinyal İşleme | Elektromekanik | Görüntü İşleme | Sensör Füzyonu
 ## SERTİFİKA VE LİSANS
 General Electric Aerospace- Explore Engineering Job Simulation | 2024  
