@@ -24,4 +24,6 @@ Sinyal İşleme | Elektromekanik | Görüntü İşleme | Sensör Füzyonu
 ## SERTİFİKA VE LİSANS
 General Electric Aerospace- Explore Engineering Job Simulation | 2024  
 MIT EDX Course- Circuits And Electronics: Circuit Analysis I | 2023  
+Dijital Donanım Tasarımcılığı Kursu (FPGA / ASIC) | 2026 
 Sivil Havacılık Genel Müdürlüğü- Sportif/Amaör IHA Lisansı  
+
