@@ -6,7 +6,7 @@ title: Mert Melih Albay
 <p>
   <strong>Ana Sayfa</strong> | 
   <a href="projects.html">Projelerim</a> | 
-  <a href="en/index.html" class="lang-switcher">🌐 View in English</a>
+  <a href="en/index.html" class="lang-switcher">🌐 EN </a>
 </p>
 
 <hr>
