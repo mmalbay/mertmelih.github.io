@@ -25,13 +25,32 @@ header img {
 }
 
 .cv-button {
-    display: block; /* inline-block yerine block yaparsan alt alta gelirler */
-    width: fit-content; /* Sadece metin kadar yer kaplaması için */
+    display: block; 
+    width: fit-content; 
     padding: 5px 10px;
     background-color: #2e81b7;
     color: white !important;
     text-decoration: none;
     border-radius: 5px;
     font-weight: bold;
-    margin-top: 10px; /* Butonlar arasına boşluk bırakır */
+    margin-top: 10px; 
+}  
+
+.lang-switcher {
+    display: inline-block;
+    padding: 5px 12px;
+    background-color: #f3f6f8; /* Hafif gri arka plan */
+    color: #159957 !important; /* Tema yeşili yazı */
+    border: 1px solid #159957;
+    border-radius: 20px;
+    font-size: 0.9em;
+    font-weight: bold;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.lang-switcher:hover {
+    background-color: #159957;
+    color: white !important;
+    text-decoration: none;
 }
