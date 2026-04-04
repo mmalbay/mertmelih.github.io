@@ -35,9 +35,12 @@ title: Mert Melih Albay
   <h3 style="margin-bottom: 5px;">Kalyon Enerji Yatırımları A.Ş.</h3>
   <em>Stajyer | 07/07/2025 - 04/08/2025</em>
   <ul>
-    <li>AutoCAD kullanarak güneş enerjisi santrallerinde saha yerleşim planlaması gerçekleştirdim.</li>
-    <li>PVsyst ve MATLAB ile gölgelenme ve üretim verimliliği simülasyonları modelledim.</li>
-    <li>Rüzgar türbinlerinden elde edilen gerçek zamanlı SCADA verilerini Python ile analiz ederek güç tahmini ve performans değerlendirmesi için matematiksel modeller geliştirdim.</li>
+Kalyon Enerji Yatırımları A.Ş. | Stajyer | 07/07/2025 - 04/08/2025  
+AutoCAD kullanarak güneş enerjisi santrallerinde saha yerleşim planlaması
+gerçekleştirdim; PVsyst ve MATLAB ile gölgelenme ve üretim verimliliği
+simülasyonları modelledim. Rüzgar türbinlerinden elde edilen gerçek zamanlı
+SCADA verilerini Python ile analiz ederek güç tahmini ve performans
+değerlendirmesi için matematiksel modeller geliştirdim.  
   </ul>
 </div>
 
@@ -45,8 +48,8 @@ title: Mert Melih Albay
   <h3 style="margin-bottom: 5px;">Chemnitz Teknoloji Üniversitesi | Almanya</h3>
   <em>Akademik Araştırma Programı (Planlanan) | Ağustos 2026</em>
   <ul>
-    <li>Prof. Dr. Florian Röhrbein'in resmi davetiyle "Nörorobotik ve Akıllı Sistemler" alanında bir aylık akademik araştırma programına kabul edildim.</li>
-    <li>Laboratuvar bünyesindeki araştırma faaliyetlerine katılacak ve devam eden akıllı sistem projelerinin dinamiklerini inceleyeceğim.</li>
+    Prof. Dr. Florian Röhrbein'in resmi davetiyle "Nörorobotik ve Akıllı Sistemler" alanında bir aylık akademik araştırma programına kabul edildim.  
+Laboratuvar bünyesindeki araştırma faaliyetlerine katılacak ve devam eden akıllı sistem projelerinin dinamiklerini inceleyeceğim.
   </ul>
 </div>
 
