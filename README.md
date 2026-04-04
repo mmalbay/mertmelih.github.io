@@ -10,14 +10,14 @@ prototip üretimine kadar bağımsız yürütebilirim.
 Muğla Sıtkı Koçman Üniversitesi | 2022-Devam Ediyor
 Elektrik Elektronik Mühendisliği (İngilizce)- 4.Sınıf
 ## DENEYİM
-### Kalyon Enerji Yatırımları A.Ş. | Stajyer | 07/07/2025 - 04/08/2025  
+Kalyon Enerji Yatırımları A.Ş. | Stajyer | 07/07/2025 - 04/08/2025  
 AutoCAD kullanarak güneş enerjisi santrallerinde saha yerleşim planlaması
 gerçekleştirdim; PVsyst ve MATLAB ile gölgelenme ve üretim verimliliği
 simülasyonları modelledim. Rüzgar türbinlerinden elde edilen gerçek zamanlı
 SCADA verilerini Python ile analiz ederek güç tahmini ve performans
 değerlendirmesi için matematiksel modeller geliştirdim.  
 
-### Chemnitz Teknoloji Üniversitesi| Chemnitz, Almanya |    ### Ağu 2026 (Planlanan)  
+Chemnitz Teknoloji Üniversitesi| Chemnitz, Almanya | Ağu 2026 (Planlanan)  
 Prof. Dr. Florian Röhrbein'in resmi davetiyle "Nörorobotik ve Akıllı Sistemler" alanında bir aylık akademik araştırma programına kabul edildim.  
 Laboratuvar bünyesindeki araştırma faaliyetlerine katılacak ve devam eden akıllı sistem projelerinin dinamiklerini inceleyeceğim.  
 
