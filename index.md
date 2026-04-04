@@ -34,14 +34,14 @@ title: Mert Melih Albay
 <div style="margin-bottom: 20px;">
   <h3 style="margin-bottom: 5px;">Kalyon Enerji Yatırımları A.Ş.</h3>
   <em>Stajyer | 07/07/2025 - 04/08/2025</em>
-  <ul>
+  
 Kalyon Enerji Yatırımları A.Ş. | Stajyer | 07/07/2025 - 04/08/2025  
 AutoCAD kullanarak güneş enerjisi santrallerinde saha yerleşim planlaması
 gerçekleştirdim; PVsyst ve MATLAB ile gölgelenme ve üretim verimliliği
 simülasyonları modelledim. Rüzgar türbinlerinden elde edilen gerçek zamanlı
 SCADA verilerini Python ile analiz ederek güç tahmini ve performans
 değerlendirmesi için matematiksel modeller geliştirdim.  
-  </ul>
+ 
 </div>
 
 <div style="margin-bottom: 20px;">
