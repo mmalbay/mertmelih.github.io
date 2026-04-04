@@ -51,9 +51,8 @@ title: Mert Melih Albay
 
 <h2 style="color: #2e81b7;">YABANCI DİL</h2>  
 
-İNGİLİZCE: C1  
+<p>İNGİLİZCE: C1</p>
 
-<br>
 <h2 style="color: #2e81b7;">BECERİLER</h2>
 <p>
 MATLAB | Altium Designer | Python | VHDL | AutoCAD | PVsyst | Gömülü Sistemler | RF
