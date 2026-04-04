@@ -4,12 +4,16 @@ title: Mert Melih Albay
 ---
 
 <p>
-  <strong><a href="index.html">Ana Sayfa</a></strong> | 
+  <strong>Ana Sayfa</strong> | 
   <a href="projects.html">Projelerim</a> | 
-  <a href="en/index.html">EN</a>
+  <a href="en/index.html" class="lang-switcher">🌐 View in English</a>
 </p>
 
 <hr>
+
+<p>
+  <a href="assets/MertMelihAlbay_CV.pdf" class="cv-button" download>Özgeçmişimi İndir (PDF)</a>
+</p>
 
 <h2 style="color: #2e81b7;">HAKKIMDA</h2>
 <p>
@@ -70,4 +74,3 @@ title: Mert Melih Albay
 
 <p>
   <a href="assets/MertMelihAlbay_CV.pdf" class="cv-button" download>Özgeçmişimi İndir (PDF)</a>
-</p>
