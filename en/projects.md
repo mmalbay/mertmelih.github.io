@@ -104,10 +104,10 @@ title: Projects - Mert Melih Albay
 
 <h3 style="color: #2e81b7;">Technical Implementation Details</h3>
 <ul>
-  <li>Architectural plans and general building hierarchy were designed in <strong>AutoCAD</strong> according to technical standards.</li>
+  <li>Architectural plans and general building hierarchy were designed in AutoCAD according to technical standards.</li>
   <li>Voltage drop (%e) calculations were performed for each line (circuit) to ensure safe and sustainable operation.</li>
   <li>A Load Table was created based on international standards to analyze energy demand, current capacity, and system balance.</li>
-  <li>Detailed light source calculations were completed using the <strong>Zijl Method</strong> for each room.</li>
+  <li>Detailed light source calculations were completed using the Zijl Method for each room.</li>
 </ul>
 
 <h4 style="color: #2e81b7;">- Power Distribution and Circuit Characteristics: Load Table Analysis</h4>
