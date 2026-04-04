@@ -4,66 +4,61 @@ title: Home - Mert Melih Albay
 ---
 
 <p>
-  <a href="index.html"><strong>Home</strong></a> | 
+  <strong>Home</strong> | 
   <a href="projects.html">Projects</a> | 
-  <a href="../index.html">TR</a>
+  <a href="../index.html" class="lang-switcher">🌐 TR</a>
 </p>
 
 <hr>
 
 <h2 style="color: #2e81b7;">ABOUT ME</h2>
 <p>
-  A final-year <strong>Electrical & Electronics Engineering</strong> student with over two years of hands-on experience in 
-  <strong>hardware architecture, digitalization, embedded systems, PCB design,</strong> and 
-  <strong>real-time data fusion</strong>. I specialize in developing autonomous systems integrated with AI-based analysis methods. 
-  I am capable of independently managing a project's lifecycle, from the initial design phase to functional prototype production.
+  A final-year Electrical & Electronics Engineering student with over two years of hands-on experience in 
+  hardware architecture, digitalization, embedded systems, electronics design, and real-time data fusion. 
+  I have developed autonomous systems integrated with AI-based analysis methods. I am capable of independently 
+  managing a project's lifecycle, from the initial design phase to functional prototype production.
 </p>
 
 <h2 style="color: #2e81b7;">EDUCATION</h2>
 <p>
-  <strong>Muğla Sıtkı Koçman University</strong> | 2022 - Present <br>
+  Muğla Sıtkı Koçman University | 2022 - Present <br>
   B.Sc. in Electrical & Electronics Engineering (English) - Senior Student
 </p>
 
 <h2 style="color: #2e81b7;">EXPERIENCE</h2>
 
-<div style="margin-bottom: 20px;">
-  <h3 style="margin-bottom: 5px;">Kalyon Enerji Yatırımları A.Ş.</h3>
+<div style="margin-bottom: 25px;">
+  <h3 style="margin-bottom: 5px; color: #2e81b7;">Kalyon Enerji Yatırımları A.Ş.</h3>
   <em>Intern Engineer | July 2025 - August 2025</em>
-  <ul>
-    <li>Performed site layout planning for solar power plants using <strong>AutoCAD</strong>.</li>
-    <li>Modelled shading and production efficiency simulations using <strong>PVsyst</strong> and <strong>MATLAB</strong>.</li>
-    <li>Developed mathematical models for power estimation and performance evaluation by analyzing real-time <strong>SCADA</strong> data from wind turbines using <strong>Python</strong>.</li>
-  </ul>
+  <p style="margin-top: 10px; line-height: 1.6;">
+    Performed site layout planning for solar power plants using AutoCAD; modelled shading and production efficiency simulations using PVsyst and MATLAB. Developed mathematical models for power estimation and performance evaluation by analyzing real-time SCADA data from wind turbines using Python.
+  </p>
 </div>
 
-<div style="margin-bottom: 20px;">
-  <h3 style="margin-bottom: 5px;">Chemnitz University of Technology | Germany</h3>
-  <em>Academic Research Program (Planned) | August 2026</em>
-  <ul>
-    <li>Accepted into a one-month academic research program in <strong>"Neurorobotics and Smart Systems"</strong> upon official invitation from Prof. Dr. Florian Röhrbein.</li>
-    <li>Will participate in laboratory research activities and analyze the dynamics of ongoing intelligent systems projects.</li>
-  </ul>
+<div style="margin-bottom: 25px;">
+  <h3 style="margin-bottom: 5px; color: #2e81b7;">Chemnitz University of Technology | Chemnitz, Germany</h3>
+  <em>Academic Research Program | August 2026 (Planned)</em>
+  <p style="margin-top: 10px; line-height: 1.6;">
+    Accepted into a one-month academic research program in Neurorobotics and Smart Systems upon official invitation from Prof. Dr. Florian Röhrbein. Will participate in laboratory research activities and analyze the dynamics of ongoing intelligent systems projects.
+  </p>
 </div>
 
-<h2 style="color: #2e81b7;">LANGUAGES</h2>
-<ul>
-  <li><strong>English:</strong> C1 (Advanced)</li>
-  <li><strong>Turkish:</strong> Native</li>
-</ul>
+<h2 style="color: #2e81b7;">LANGUAGES</h2>  
+
+<p>ENGLISH: C1</p>
 
 <h2 style="color: #2e81b7;">SKILLS</h2>
 <p>
-  <strong>Software & Tools:</strong> MATLAB, Altium Designer, Python, VHDL, AutoCAD, PVsyst <br>
-  <strong>Technical Focus:</strong> Embedded Systems, RF, Signal Processing, Electromechanics, Image Processing, Sensor Fusion
+MATLAB | Altium Designer | Python | VHDL | AutoCAD | PVsyst | Embedded Systems | RF
+Signal Processing | Electromechanics | Image Processing | Sensor Fusion
 </p>
 
 <h2 style="color: #2e81b7;">CERTIFICATIONS & LICENSES</h2>
 <ul>
-  <li><strong>General Electric Aerospace:</strong> Explore Engineering Job Simulation | 2024</li>
-  <li><strong>MITx (edX):</strong> Circuits and Electronics - Circuit Analysis I | 2023</li>
-  <li><strong>Digital Hardware Design:</strong> FPGA / ASIC Design Course | 2026</li>
-  <li><strong>SHGM:</strong> Sportive/Amateur UAV (Drone) License</li>
+  <li>General Electric Aerospace: Explore Engineering Job Simulation | 2024</li>
+  <li>MITx (edX): Circuits And Electronics: Circuit Analysis I | 2023</li>
+  <li>Digital Hardware Design: FPGA / ASIC Design Course | 2026</li>
+  <li>SHGM (Directorate General of Civil Aviation): Sportive/Amateur UAV License</li>
 </ul>
 
 <hr>
