@@ -51,7 +51,8 @@ title: Mert Melih Albay
 
 <h2 style="color: #2e81b7;">YABANCI DİL</h2>  
 
-İNGİLİZCE: C1 
+İNGİLİZCE: C1  
+
 
 <h2 style="color: #2e81b7;">BECERİLER</h2>
 <p>
