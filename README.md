@@ -17,7 +17,7 @@ simülasyonları modelledim. Rüzgar türbinlerinden elde edilen gerçek zamanl�
 SCADA verilerini Python ile analiz ederek güç tahmini ve performans
 değerlendirmesi için matematiksel modeller geliştirdim.  
 
-### Chemnitz Teknoloji Üniversitesi| Chemnitz, Almanya | 
+### Chemnitz Teknoloji Üniversitesi| Chemnitz, Almanya |
 ### Ağu 2026 (Planlanan)  
 Prof. Dr. Florian Röhrbein'in resmi davetiyle "Nörorobotik ve Akıllı Sistemler" alanında bir aylık akademik araştırma programına kabul edildim.  
 Laboratuvar bünyesindeki araştırma faaliyetlerine katılacak ve devam eden akıllı sistem projelerinin dinamiklerini inceleyeceğim.  
