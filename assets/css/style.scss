@@ -23,3 +23,15 @@ header img {
     font-size: 1.05em; 
     margin-right: 5px;
 }
+
+.cv-button {
+    display: block; /* inline-block yerine block yaparsan alt alta gelirler */
+    width: fit-content; /* Sadece metin kadar yer kaplaması için */
+    padding: 10px 20px;
+    background-color: #159957;
+    color: white !important;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-top: 10px; /* Butonlar arasına boşluk bırakır */
+}
