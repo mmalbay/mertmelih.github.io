@@ -55,7 +55,7 @@ Laboratuvar bünyesindeki araştırma faaliyetlerine katılacak ve devam eden ak
 
 <h2 style="color: #2e81b7;">YABANCI DİL</h2>
 <ul>
-  <li>İNGİLİZCE: C1 </li>
+  İNGİLİZCE: C1 
 </ul>
 
 <h2 style="color: #2e81b7;">BECERİLER</h2>
