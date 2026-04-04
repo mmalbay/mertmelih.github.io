@@ -15,7 +15,13 @@ AutoCAD kullanarak güneş enerjisi santrallerinde saha yerleşim planlaması
 gerçekleştirdim; PVsyst ve MATLAB ile gölgelenme ve üretim verimliliği
 simülasyonları modelledim. Rüzgar türbinlerinden elde edilen gerçek zamanlı
 SCADA verilerini Python ile analiz ederek güç tahmini ve performans
-değerlendirmesi için matematiksel modeller geliştirdim.
+değerlendirmesi için matematiksel modeller geliştirdim.  
+
+Misafir Araştırmacı (Planlanan)
+Chemnitz Teknoloji Üniversitesi, Nörorobotik Kürsüsü | Chemnitz, Almanya | Ağu 2026
+Prof. Dr. Florian Röhrbein'in resmi davetiyle "Nörorobotik ve Akıllı Sistemler" alanında bir aylık akademik araştırma programına kabul edildim.
+Laboratuvar bünyesindeki araştırma faaliyetlerine katılacak ve devam eden akıllı sistem projelerinin dinamiklerini inceleyeceğim.  
+
 ## YABANCI DİL
 İNGİLİZCE - C1
 ## BECERİLER
