@@ -47,8 +47,7 @@ değerlendirmesi için matematiksel modeller geliştirdim.
   <h3 style="margin-bottom: 5px; color: #2e81b7;">Chemnitz Teknoloji Üniversitesi | Chemnitz, Almanya</h3>
   <em>Akademik Araştırma Programı | Ağustos 2026 (Planlanan)</em>
   <ul>
-    <li>Prof. Dr. Florian Röhrbein'in resmi davetiyle <strong>"Nörorobotik ve Akıllı Sistemler"</strong> alanında bir aylık akademik araştırma programına kabul edildim.</li>
-    <li>Laboratuvar bünyesindeki araştırma faaliyetlerine katılacak ve devam eden akıllı sistem projelerinin dinamiklerini inceleyeceğim.</li>
+    Prof. Dr. Florian Röhrbein'in resmi davetiyle <strong>"Nörorobotik ve Akıllı Sistemler"</strong> alanında bir aylık akademik araştırma programına kabul edildim. Laboratuvar bünyesindeki araştırma faaliyetlerine katılacak ve devam eden akıllı sistem projelerinin dinamiklerini inceleyeceğim.
   </ul>
 </div>
 
