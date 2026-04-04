@@ -97,10 +97,11 @@ title: Projelerim - Mert Melih Albay
 <h4 style="color: #2e81b7;">- AutoCAD Ortamında Modellenen 2D Kat Planı</h4>
 <img src="assets/IlluminationFinalProject.jpg" width="600">
 
-<h3 style="color: #2e81b7;">Gerçekleştirilen Teknik Çalışmalar</h3>
-<ul>
+<h3 style="color: #2e81b7;">Gerçekleştirilen Teknik Çalışmalar</h3>  
+
+
 Apartman dairesi mimari planı ve genel bina hiyerarşisi (katlar ve daireler dahil) AutoCAD ortamında teknik standartlara uygun olarak projelendirilmiştir. Tesisatın güvenli ve sürdürülebilir çalışması adına her bir hat (linye) için ayrı ayrı yüzde gerilim düşümü (%e) hesaplamaları gerçekleştirilmiştir. Sistemin enerji ihtiyacını, akım kapasitesini ve dengesini analiz etmek amacıyla uluslararası standartlarda bir Yük Tablosu oluşturulmuştur. Her oda için gerekli aydınlık düzeyini sağlamak amacıyla Zijl Metodu kullanılarak detaylı ışık kaynağı hesaplamaları yapılmış ve armatür yerleşimleri bu verilere göre tamamlanmıştır.  
-</ul>
+
 
 <h4 style="color: #2e81b7;">- Güç Dağılımı ve Yük Tablosu Analizi</h4>
 <img src="assets/loadingTabel.png" width="600">
