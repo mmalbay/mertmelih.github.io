@@ -31,24 +31,22 @@ title: Mert Melih Albay
 
 <h2 style="color: #2e81b7;">DENEYİM</h2>
 
-<div style="margin-bottom: 20px;">
-  <h3 style="margin-bottom: 5px;">Kalyon Enerji Yatırımları A.Ş.</h3>
-  <em>Stajyer | 07/07/2025 - 04/08/2025</em>
-  
-Kalyon Enerji Yatırımları A.Ş. | Stajyer | 07/07/2025 - 04/08/2025  
 
-AutoCAD kullanarak güneş enerjisi santrallerinde saha yerleşim planlaması
-gerçekleştirdim; PVsyst ve MATLAB ile gölgelenme ve üretim verimliliği
-simülasyonları modelledim. Rüzgar türbinlerinden elde edilen gerçek zamanlı
-SCADA verilerini Python ile analiz ederek güç tahmini ve performans
-değerlendirmesi için matematiksel modeller geliştirdim.  
- 
-<div style="margin-bottom: 20px;">
+<div style="margin-bottom: 25px;">
+  <h3 style="margin-bottom: 5px; color: #2e81b7;">Kalyon Enerji Yatırımları A.Ş.</h3>
+  <em>Stajyer | 07/07/2025 - 04/08/2025</em>
+  <p style="margin-top: 10px; line-height: 1.6;">
+    AutoCAD kullanarak güneş enerjisi santrallerinde saha yerleşim planlaması gerçekleştirdim; PVsyst ve MATLAB ile gölgelenme ve üretim verimliliği simülasyonları modelledim. Rüzgar türbinlerinden elde edilen gerçek zamanlı SCADA verilerini Python ile analiz ederek güç tahmini ve performans değerlendirmesi için matematiksel modeller geliştirdim.
+  </p>
+</div>
+
+
+<div style="margin-bottom: 25px;">
   <h3 style="margin-bottom: 5px; color: #2e81b7;">Chemnitz Teknoloji Üniversitesi | Chemnitz, Almanya</h3>
   <em>Akademik Araştırma Programı | Ağustos 2026 (Planlanan)</em>
-  <ul>
+  <p style="margin-top: 10px; line-height: 1.6;">
     Prof. Dr. Florian Röhrbein'in resmi davetiyle <strong>"Nörorobotik ve Akıllı Sistemler"</strong> alanında bir aylık akademik araştırma programına kabul edildim. Laboratuvar bünyesindeki araştırma faaliyetlerine katılacak ve devam eden akıllı sistem projelerinin dinamiklerini inceleyeceğim.
-  </ul>
+  </p>
 </div>
 
 <h2 style="color: #2e81b7;">YABANCI DİL</h2>  
