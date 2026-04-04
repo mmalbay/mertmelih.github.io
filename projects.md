@@ -11,8 +11,6 @@ title: Projelerim - Mert Melih Albay
 
 <hr>
 
-<h1 style="color: #2e81b7;">Projelerim</h1>
-
 <h2 style="color: #2e81b7;">Derin Öğrenme Tabanlı Optik İnceleme ve Görsel Kusur Tespit Modülü</h2>
 <p>
   Modül, derin öğrenme mimarileri (YOLO) ve bilgisayarlı görü (OpenCV) tekniklerini kullanarak, PCB üzerindeki elektronik bileşenleri (direnç, diyot, MOSFET, entegre vb.) gerçek zamanlı olarak tanımlamak ve görsel kusurları otonom bir şekilde saptamayı amaçlamaktadır. Bu birim; eksik parça, yanlış dizilim, lehim köprüleri ve korozyon gibi fiziksel anomalileri yüksek çözünürlüklü görüntüler üzerinden analiz ederek, manuel gözle kontrol süreçlerini tamamen dijitalleştirmeyi ve hata tespitindeki insan faktörlü hata payını minimize etmeyi hedefler.
@@ -86,7 +84,7 @@ title: Projelerim - Mert Melih Albay
   <img src="assets/abc.gif" alt="Proje Demosu">
 </p>
 <p>
-  <a href="https://www.youtube.com/watch?v=nGcnPR7hnCM" target="_blank">📺 Çalışmanın YouTube Video Kaydı</a>
+  <a href="https://www.youtube.com/watch?v=nGcnPR7hnCM" target="_blank">▶️ Çalışmanın YouTube Video Kaydı</a>
 </p>
 
 <hr>
@@ -101,18 +99,18 @@ title: Projelerim - Mert Melih Albay
 
 <h3 style="color: #2e81b7;">Gerçekleştirilen Teknik Çalışmalar</h3>
 <ul>
-  <li>Daire mimari planı <strong>AutoCAD</strong> ortamında standartlara uygun olarak projelendirilmiştir.</li>
-  <li>Her hat (linye) için gerilim düşümü (%e) hesaplamaları yapılmıştır.</li>
-  <li>Uluslararası standartlarda bir <strong>Yük Tablosu</strong> oluşturulmuştur.</li>
-  <li><strong>Zijl Metodu</strong> kullanılarak detaylı aydınlatma hesaplamaları tamamlanmıştır.</li>
+Apartman dairesi mimari planı ve genel bina hiyerarşisi (katlar ve daireler dahil) AutoCAD ortamında teknik standartlara uygun olarak projelendirilmiştir. Tesisatın güvenli ve sürdürülebilir çalışması adına her bir hat (linye) için ayrı ayrı yüzde gerilim düşümü (%e) hesaplamaları gerçekleştirilmiştir. Sistemin enerji ihtiyacını, akım kapasitesini ve dengesini analiz etmek amacıyla uluslararası standartlarda bir Yük Tablosu oluşturulmuştur. Her oda için gerekli aydınlık düzeyini sağlamak amacıyla Zijl Metodu kullanılarak detaylı ışık kaynağı hesaplamaları yapılmış ve armatür yerleşimleri bu verilere göre tamamlanmıştır.  
 </ul>
 
 <h4 style="color: #2e81b7;">- Güç Dağılımı ve Yük Tablosu Analizi</h4>
 <img src="assets/loadingTabel.png" width="600">
 <p>
-  Toplam kurulu güç 80.504 W olarak hesaplanmış; eşzamanlılık katsayısı uygulanarak talep gücü 36.226,8 W seviyesine normalize edilmiştir. Ana dağıtım panosu için 63 A sigorta seçimi yapılmış, ana besleme hattında %0.31 gibi güvenli bir gerilim düşümü değeri elde edilmiştir.
+  Toplam kurulu güç 80.504 W olarak hesaplanmış; ancak sistemin gerçek zamanlı çalışma karakteristiğini yansıtmak amacıyla eşzamanlılık katsayısı (simultaneity factor) uygulanarak talep gücü 36.226,8 W seviyesine normalize edilmiştir.  
+Konut içindeki yüksek güç tüketen ekipmanlar için özel linyeler tasarlanmıştır. Örneğin; 1. kat dairelerde yer alan çamaşır makinesi, bulaşık makinesi ve fırın gibi yüklerin yanı sıra bodrum katta yer alan araç şarj istasyonu hatları ayrı ayrı projelendirilmiştir.  
+Ana dağıtım panosu için 63 A sigorta seçimi yapılmış; alt linyelerde ise yük tipine göre 10 A, 16 A ve 35 A değerlerinde koruma elemanları ve röleler konumlandırılmıştır.  
+Ana besleme hattında %0.31 gibi düşük ve güvenli bir gerilim düşümü değeri elde edilerek sistem verimliliği tescil edilmiştir. 
 </p>
 
 <p>
-  <a href="https://youtu.be/-xOm79f4XDA" target="_blank">📺 Detaylı YouTube Video Kaydı</a>
+  <a href="https://youtu.be/-xOm79f4XDA" target="_blank">▶️ Detaylı YouTube Video Kaydı</a>
 </p>
