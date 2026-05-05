@@ -33,15 +33,6 @@ title: Home - Mert Melih Albay
   <p style="margin-top: 10px; line-height: 1.6;">
     Performed site layout planning for solar power plants using AutoCAD; modelled shading and production efficiency simulations using PVsyst and MATLAB. Developed mathematical models for power estimation and performance evaluation by analyzing real-time SCADA data from wind turbines using Python.
   </p>
-</div>
-
-<div style="margin-bottom: 25px;">
-  <h3 style="margin-bottom: 5px; color: #333333; font-weight: 700;">Chemnitz University of Technology | Chemnitz, Germany</h3>
-  <em>Academic Research Program | August 2026 (Planned)</em>
-  <p style="margin-top: 10px; line-height: 1.6;">
-    Accepted into a one-month academic research program in Neurorobotics and Smart Systems upon official invitation from Prof. Dr. Florian Röhrbein. Will participate in laboratory research activities and analyze the dynamics of ongoing intelligent systems projects.
-  </p>
-</div>
 
 <h2 style="color: #2e81b7;">LANGUAGES</h2>  
 
