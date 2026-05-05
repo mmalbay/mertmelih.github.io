@@ -41,7 +41,7 @@ title: Projects - Mert Melih Albay
 <h2 style="color: #2e81b7;">CNC-Probe: 3-Axis Robotic Platform for Thermal and Electrical PCB Analysis</h2>
 <p>
   This device aims to perform detailed physical inspections on a PCB using a 3-axis robotic platform. Initially, it maps the board thermally based on suspicious points identified by AI, instantly detecting short circuits and overheating zones invisible to the naked eye. Simultaneously, it performs automatic electrical measurements with an autonomous probe tip, determining the fault location with millimetric precision.
-</p>
+</p>  
 <br>
 
 <div style="margin: 30px 0; text-align: center;">
