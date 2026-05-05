@@ -64,7 +64,13 @@ title: Projelerim - Mert Melih Albay
 </p>
 
 <h4 style="color: #2e81b7;">- Ölçüm Platform Karkası</h4>
-<img src="assets/CNC KARKASI - 2D(2)_page-0001.jpg" width="600">
+<img src="assets/CNC KARKASI - 2D(2)_page-0001.jpg" width="600">  
+
+<p>
+  <a href="https://www.youtube.com/watch?v=8iHnph1PgWU"_blank">▶️ Projenin YouTube Video Kaydı</a>
+</p>
+
+
 
 <hr>
 
