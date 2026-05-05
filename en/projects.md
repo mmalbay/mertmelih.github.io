@@ -42,6 +42,13 @@ title: Projects - Mert Melih Albay
 <p>
   This device aims to perform detailed physical inspections on a PCB using a 3-axis robotic platform. Initially, it maps the board thermally based on suspicious points identified by AI, instantly detecting short circuits and overheating zones invisible to the naked eye. Simultaneously, it performs automatic electrical measurements with an autonomous probe tip, determining the fault location with millimetric precision.
 </p>
+<br>
+
+<div style="margin: 30px 0; text-align: center;">
+  <img src="assets/Video%20Project%2055.gif" alt="Proje Tanıtım GIF" style="width: 100%; max-width: 700px; border-radius: 5px;">
+</div>
+
+<br>
 
 <h4 style="color: #2e81b7;">- Project Workflow Diagram</h4>
 <img src="../assets/Otomatik Optik İnceleme.png" width="700" height="400">
