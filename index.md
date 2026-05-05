@@ -41,14 +41,6 @@ title: Mert Melih Albay
 </div>
 
 
-<div style="margin-bottom: 25px;">
-<h3 style="margin-bottom: 5px; color: #333; font-weight: 700;">Chemnitz Teknoloji Üniversitesi | Chemnitz, Almanya</h3>
-  <em>Akademik Araştırma Programı | Ağustos 2026 (Planlanan)</em>
-  <p style="margin-top: 10px; line-height: 1.6;">
-    Prof. Dr. Florian Röhrbein'in resmi davetiyle "Nörorobotik ve Akıllı Sistemler" alanında bir aylık akademik araştırma programına kabul edildim. Laboratuvar bünyesindeki araştırma faaliyetlerine katılacak ve devam eden akıllı sistem projelerinin dinamiklerini inceleyeceğim.
-  </p>
-</div>
-
 <h2 style="color: #2e81b7;">YABANCI DİL</h2>  
 
 <p>İNGİLİZCE: C1</p>
