@@ -83,7 +83,10 @@ title: Projects - Mert Melih Albay
 <h2 style="color: #2e81b7;">High SNR Amplifier for Low-Amplitude Signals</h2>
 <p>
   This project is a high-performance pre-amplifier design that boosts weak analog signals from microphones or low-output pickups without exposing them to the circuit's own electrical and thermal noise. The primary goal is to preserve natural sound dynamics using low-noise components and precision impedance matching techniques to achieve a maximum signal-to-noise ratio (SNR).
-</p>
+</p>  
+<div style="text-align: center; margin: 20px 0;">
+  <img src="../assets/fotott.jpg" alt="Project Image" style="width: 100%; max-width: 600px; border-radius: 8px;">
+</div>
 
 <hr>
 
