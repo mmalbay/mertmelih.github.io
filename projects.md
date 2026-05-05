@@ -41,7 +41,14 @@ title: Projelerim - Mert Melih Albay
 <h2 style="color: #2e81b7;">CNC-Probe: 3 Eksenli Robot ile Termal ve Elektriksel PCB Analiz Cihazı</h2>
 <p>
   Cihaz, 3 eksenli hareket edebilen robotik bir platform yardımıyla PCB üzerinde detaylı fiziksel kontroller gerçekleştirmeyi amaçlar. İlk aşamada yapay zekânın belirlediği şüpheli noktaları referans alarak kartı termal olarak haritalandırır; bu sayede çıplak gözle görülmeyen kısa devre ve aşırı ısınma bölgelerini anında saptar. Aynı zamanda otonom prob ucuyla otomatik elektriksel ölçümler yaparak, arızanın yerini milimetrik hassasiyetle belirler.
-</p>
+</p>  
+<br>
+
+<div style="margin: 30px 0; text-align: center;">
+  <img src="assets/Video%20Project%2055.gif" alt="Proje Tanıtım GIF" style="width: 100%; max-width: 700px; border-radius: 5px;">
+</div>
+
+<br>
 
 <h4 style="color: #2e81b7;">- Projenin İş Akış Diyagramı</h4>
 <img src="assets/Otomatik Optik İnceleme.png" width="700" height="400">
