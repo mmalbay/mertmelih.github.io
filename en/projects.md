@@ -64,7 +64,11 @@ title: Projects - Mert Melih Albay
 </p>
 
 <h4 style="color: #2e81b7;">- Measurement Platform Chassis</h4>
-<img src="../assets/CNC KARKASI - 2D(2)_page-0001.jpg" width="600">
+<img src="../assets/CNC KARKASI - 2D(2)_page-0001.jpg" width="600">  
+
+<p>
+  <a href="https://www.youtube.com/watch?v=8iHnph1PgWU"_blank">▶️ Project Video on YouTube</a>
+</p>
 
 <hr>
 
