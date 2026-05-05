@@ -45,7 +45,8 @@ title: Projects - Mert Melih Albay
 <br>
 
 <div style="margin: 30px 0; text-align: center;">
-  <img src="assets/Video%20Project%2055.gif" alt="Proje Tanıtım GIF" style="width: 100%; max-width: 700px; border-radius: 5px;">
+
+  <img src="../assets/Video%20Project%2055.gif" alt="Project Presentation GIF" style="width: 100%; max-width: 700px; border-radius: 5px;">
 </div>
 
 <br>
