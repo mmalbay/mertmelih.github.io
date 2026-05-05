@@ -85,7 +85,9 @@ title: Projelerim - Mert Melih Albay
 <p>
   Bu proje, zayıf analog ses sinyallerini, devrenin kendi gürültüsüne maruz bırakmadan optimum seviyeye yükselten yüksek performanslı bir ön yükseltici tasarımıdır. Temel amaç, düşük gürültülü bileşenlerle sesin doğal dinamiklerini korumak ve maksimum sinyal-gürültü oranı (SNR) elde etmektir.
 </p>
-
+<div style="text-align: center; margin: 20px 0;">
+  <img src="assets/fotott.jpg" alt="Proje Görseli" style="width: 100%; max-width: 600px; border-radius: 8px;">
+</div>
 <hr>
 
 <h2 style="color: #2e81b7;">Dinamik Yük Koşullarında Senkron Jeneratör Karakteristiklerinin MATLAB GUI ile İncelenmesi</h2>
