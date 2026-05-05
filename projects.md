@@ -67,7 +67,7 @@ title: Projelerim - Mert Melih Albay
 <img src="assets/CNC KARKASI - 2D(2)_page-0001.jpg" width="600">  
 
 <p>
-  <a href="https://www.youtube.com/watch?v=8iHnph1PgWU="_blank">▶️ Projenin YouTube Video Kaydı</a>
+  <a href="https://www.youtube.com/watch?v=8iHnph1PgWU" target="_blank">▶️ Projenin YouTube Video Kaydı</a>
 </p>
 
 
