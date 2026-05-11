@@ -44,8 +44,11 @@ title: Projelerim - Mert Melih Albay
 </p>  
 <br>
 
-<div style="margin: 30px 0; text-align: center;">
-  <img src="assets/Video%20Project%2055.gif" alt="Proje Tanıtım GIF" style="width: 100%; max-width: 700px; border-radius: 5px;">
+<div style="text-align: center; margin: 30px 0;">
+  <video autoplay loop muted playsinline style="width: 100%; max-width: 750px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <source src="assets/Video Project 11.mp4" type="video/mp4">
+    Tarayıcınız bu videoyu desteklemiyor.
+  </video>
 </div>
 
 <br>
